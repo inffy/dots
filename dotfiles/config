@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /home/juha
+[credential]
+	helper = store
+[status]
+	showUntrackedFiles = no
+[remote "origin"]
+	url = git@github.com:inffy/dots.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
