@@ -55,9 +55,9 @@
             "showPeCoreCount": true
         },
         {
-                    "type": "gpu",
-                    "key": "│ ├󰍛",
-                  //  "keyColor": "green"
+            "key": "│ ├󰍛 gpu        {#keys}|",
+            "type": "gpu",
+        //  "keyColor": "green"
                 },
         {
             "key": "│ {#34}󰉉 disk    {#keys}│",
