@@ -1,0 +1,6 @@
+[edit]
+    command = "micro"
+
+[git]
+    autoCommit = true
+    autoPush = true
